@@ -4,7 +4,7 @@ import (
 	"errors"
 	"log"
 
-	"github.com/bettercap/gatt/xpc"
+	"github.com/teaualune/gatt/xpc"
 )
 
 type peripheral struct {

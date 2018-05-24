@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/bettercap/gatt"
-	"github.com/bettercap/gatt/examples/option"
+	"github.com/teaualune/gatt"
+	"github.com/teaualune/gatt/examples/option"
 )
 
 func onStateChanged(d gatt.Device, s gatt.State) {
